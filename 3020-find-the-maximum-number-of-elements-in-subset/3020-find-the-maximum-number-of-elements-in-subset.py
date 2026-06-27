@@ -1,16 +1,10 @@
+from typing import List
 from collections import Counter
-class Solution(object):
-    def maximumLength(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maximumLength(self, nums: List[int]) -> int:
         cnt = Counter(nums)
         mx = max(nums)
-        if 1 in cnt:
-            ans = cnt[1] if cnt[1] % 2 == 1 else cnt[1] - 1
-        else:
-            ans = 1
+        ans = cnt[1] if 1 in cnt and cnt[1] % 2 == 1 else max(cnt.get(1, 0) - 1, 1)
         for num in cnt:
             if num == 1:
                 continue
