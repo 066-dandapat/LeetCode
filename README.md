@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/066-dandapat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/066-dandapat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/066-dandapat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/066-dandapat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/066-dandapat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/066-dandapat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
