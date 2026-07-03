@@ -1,7 +1,12 @@
 from collections import deque
-from typing import List
-class Solution:
-    def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
+class Solution(object):
+    def findMaxPathScore(self, edges, online, k):
+        """
+        :type edges: List[List[int]]
+        :type online: List[bool]
+        :type k: int
+        :rtype: int
+        """
         n = len(online)
         if n == 1:
             return 0
@@ -12,17 +17,20 @@ class Solution:
             graph[u].append((v, w))
             indegree[v] += 1
             weights.add(w)
-        q = deque(i for i in range(n) if indegree[i] == 0)
+        q = deque()
         topo = []
+        for i in range(n):
+            if indegree[i] == 0:
+                q.append(i)
         while q:
             u = q.popleft()
             topo.append(u)
-            for v, _ in graph[u]:
+            for v, w in graph[u]:
                 indegree[v] -= 1
                 if indegree[v] == 0:
                     q.append(v)
         weights = sorted(weights)
-        def check(limit: int) -> bool:
+        def check(limit):
             INF = 10 ** 30
             dist = [INF] * n
             dist[0] = 0
