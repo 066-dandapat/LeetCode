@@ -1,15 +1,11 @@
-class Solution(object):
-    def removeCoveredIntervals(self, intervals):
-        """
-        :type intervals: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
         intervals.sort(key=lambda x: (x[0], -x[1]))
-        count = 0
+        ans = 0
         max_end = 0
         for start, end in intervals:
             if end > max_end:
-                count += 1
+                ans += 1
                 max_end = end
-        return count
+        return ans
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
