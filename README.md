@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [1288-remove-covered-intervals](https://github.com/066-dandapat/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/066-dandapat/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1288-remove-covered-intervals](https://github.com/066-dandapat/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
