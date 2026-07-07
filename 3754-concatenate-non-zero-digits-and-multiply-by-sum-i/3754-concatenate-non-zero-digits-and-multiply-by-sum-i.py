@@ -1,11 +1,15 @@
-class Solution:
-    def sumAndMultiply(self, n: int) -> int:
+class Solution(object):
+    def sumAndMultiply(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         x = 0
-        digit_sum = 0
+        s = 0
         for ch in str(n):
             if ch != '0':
-                d = int(ch)
+                d = ord(ch) - ord('0')
                 x = x * 10 + d
-                digit_sum += d
-        return x * digit_sum
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000")) 
+                s += d
+        return x * s
+__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
