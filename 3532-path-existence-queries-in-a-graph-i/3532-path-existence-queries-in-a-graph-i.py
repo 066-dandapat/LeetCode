@@ -1,6 +1,12 @@
-from typing import List
-class Solution:
-    def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
+class Solution(object):
+    def pathExistenceQueries(self, n, nums, maxDiff, queries):
+        """
+        :type n: int
+        :type nums: List[int]
+        :type maxDiff: int
+        :type queries: List[List[int]]
+        :rtype: List[bool]
+        """
         group = [0] * n
         comp = 0
         for i in range(1, n):
