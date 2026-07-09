@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [1288-remove-covered-intervals](https://github.com/066-dandapat/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/066-dandapat/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/066-dandapat/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
