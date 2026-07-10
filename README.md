@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/066-dandapat/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [1288-remove-covered-intervals](https://github.com/066-dandapat/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/066-dandapat/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/066-dandapat/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1288-remove-covered-intervals](https://github.com/066-dandapat/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -130,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
