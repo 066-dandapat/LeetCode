@@ -1,9 +1,5 @@
-class Solution(object):
-    def arrayRankTransform(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
         rank = {}
         for i, num in enumerate(sorted(set(arr))):
             rank[num] = i + 1
