@@ -1,12 +1,6 @@
-class Solution(object):
-    def smallestSubsequence(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        last = {}
-        for i, c in enumerate(s):
-            last[c] = i
+class Solution:
+    def smallestSubsequence(self, s: str) -> str:
+        last = {c: i for i, c in enumerate(s)}
         stack = []
         seen = set()
         for i, c in enumerate(s):
