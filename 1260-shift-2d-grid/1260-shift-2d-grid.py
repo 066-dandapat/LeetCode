@@ -1,10 +1,5 @@
-class Solution(object):
-    def shiftGrid(self, grid, k):
-        """
-        :type grid: List[List[int]]
-        :type k: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
         m = len(grid)
         n = len(grid[0])
         total = m * n
@@ -15,7 +10,7 @@ class Solution(object):
         arr = arr[-k:] + arr[:-k]
         res = []
         idx = 0
-        for i in range(m):
+        for _ in range(m):
             res.append(arr[idx:idx + n])
             idx += n
         return res
