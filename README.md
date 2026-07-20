@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/066-dandapat/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/066-dandapat/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Combinatorics
 |  |
 | ------- |
