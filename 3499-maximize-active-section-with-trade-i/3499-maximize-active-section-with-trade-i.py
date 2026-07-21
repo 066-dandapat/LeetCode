@@ -1,9 +1,13 @@
-class Solution:
-    def maxActiveSectionsAfterTrade(self, s: str) -> int:
+class Solution(object):
+    def maxActiveSectionsAfterTrade(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         n = len(s)
         ans = 0
         i = 0
-        pre = -10**9
+        pre = -10 ** 9
         mx = 0
         while i < n:
             j = i
@@ -13,7 +17,8 @@ class Solution:
             if s[i] == '1':
                 ans += cnt
             else:
-                mx = max(mx, pre + cnt)
+                if pre + cnt > mx:
+                    mx = pre + cnt
                 pre = cnt
             i = j
         return ans + mx
