@@ -1,16 +1,17 @@
-class Solution:
-    def uniqueXorTriplets(self, nums: List[int]) -> int:
+class Solution(object):
+    def uniqueXorTriplets(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         vals = list(set(nums))
-        m = max(vals).bit_length()
-        size = 1 << m
-        pair = [False] * size
+        pair = set()
         for x in vals:
             for y in vals:
-                pair[x ^ y] = True
-        ans = [False] * size
-        for p in range(size):
-            if pair[p]:
-                for z in vals:
-                    ans[p ^ z] = True
-        return sum(ans)
+                pair.add(x ^ y)
+        ans = set()
+        for p in pair:
+            for z in vals:
+                ans.add(p ^ z)
+        return len(ans)
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
