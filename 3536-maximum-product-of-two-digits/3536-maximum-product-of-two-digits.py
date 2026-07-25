@@ -1,11 +1,12 @@
 class Solution:
-    def maxProduct(self, n):
-        digits = [int(d) for d in str(n)]
-        max_prod = 0
-        for i in range(len(digits)):
-            for j in range(i, len(digits)):
-                # Allow same-digit multiplication only if i != j OR digit occurs more than once
-                if i != j or digits.count(digits[i]) > 1:
-                    max_prod = max(max_prod, digits[i] * digits[j])
-        return max_prod
+    def maxProduct(self, n: int) -> int:
+        first = second = 0
+        while n:
+            n, digit = divmod(n, 10)
+            if digit > first:
+                second = first
+                first = digit
+            elif digit > second:
+                second = digit
+        return first * second
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
