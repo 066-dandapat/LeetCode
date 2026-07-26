@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/066-dandapat/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/066-dandapat/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/066-dandapat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/066-dandapat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/066-dandapat/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/066-dandapat/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/066-dandapat/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/066-dandapat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/066-dandapat/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/066-dandapat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/066-dandapat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
