@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/066-dandapat/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/066-dandapat/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/066-dandapat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/066-dandapat/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/066-dandapat/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/066-dandapat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/066-dandapat/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/066-dandapat/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/066-dandapat/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
