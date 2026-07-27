@@ -1,9 +1,11 @@
-class Solution(object):
-    def maxProduct(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        nums.sort()
-        return (nums[-1] - 1) * (nums[-2] - 1)
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        first = second = 0
+        for num in nums:
+            if num >= first:
+                second = first
+                first = num
+            elif num > second:
+                second = num
+        return (first - 1) * (second - 1)
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
