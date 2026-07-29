@@ -1,8 +1,8 @@
 from collections import Counter
-class Solution:
+class Solution(object):
     def __init__(self):
         self.MAX = 1000001
-    def smallestPalindrome(self, s: str, k: int) -> str:
+    def smallestPalindrome(self, s, k):
         cnt = Counter(s)
         half = [0] * 26
         mid = ""
