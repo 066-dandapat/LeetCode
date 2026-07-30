@@ -1,9 +1,5 @@
-class Solution(object):
-    def minimumPushes(self, word):
-        """
-        :type word: str
-        :rtype: int
-        """
+class Solution:
+    def minimumPushes(self, word: str) -> int:
         n = len(word)
         ans = 0
         for i in range(n):
