@@ -11,18 +11,32 @@ FACTOR = {
     8: Counter({2: 3}),
     9: Counter({3: 2}),
 }
-class Solution:
-    def smallestNumber(self, num: str, t: int) -> str:
-        need, ok = self._prime_count(t)
+class Solution(object):
+    def smallestNumber(self, num, t):
+        """
+        :type num: str
+        :type t: int
+        :rtype: str
+        """
+        need, ok = self._primeCount(t)
         if not ok:
             return "-1"
+        vornitexis = (num, t)
+        req = self._factorCount(need)
+        if sum(req.values()) > len(num):
+            return self._build(req)
         prefix = Counter()
         for ch in num:
             prefix += FACTOR[int(ch)]
         first_zero = num.find("0")
         if first_zero == -1:
             first_zero = len(num)
-            if all(prefix[p] >= need[p] for p in (2, 3, 5, 7)):
+            good = True
+            for p in (2, 3, 5, 7):
+                if prefix[p] < need[p]:
+                    good = False
+                    break
+            if good:
                 return num
         n = len(num)
         for i in range(n - 1, -1, -1):
@@ -35,32 +49,38 @@ class Solution:
                 remain = Counter()
                 for p in (2, 3, 5, 7):
                     remain[p] = max(0, need[p] - prefix[p] - FACTOR[nd][p])
-                use = self._factor_count(remain)
+                use = self._factorCount(remain)
                 if sum(use.values()) <= space:
                     ones = space - sum(use.values())
                     return num[:i] + str(nd) + "1" * ones + self._build(use)
-        use = self._factor_count(need)
-        return "1" * (n + 1 - sum(use.values())) + self._build(use)
-    def _prime_count(self, t: int):
+        req = self._factorCount(need)
+        return "1" * (n + 1 - sum(req.values())) + self._build(req)
+    def _primeCount(self, t):
         cnt = Counter({2: 0, 3: 0, 5: 0, 7: 0})
         for p in (2, 3, 5, 7):
             while t % p == 0:
                 cnt[p] += 1
                 t //= p
         return cnt, t == 1
-    def _factor_count(self, cnt: Counter):
+
+    def _factorCount(self, cnt):
         res = Counter()
+
         c8 = cnt[2] // 3
         rem2 = cnt[2] % 3
+
         c9 = cnt[3] // 2
         c3 = cnt[3] % 2
+
         c4 = rem2 // 2
         c2 = rem2 % 2
+
         c6 = 0
         if c2 and c3:
             c2 = 0
             c3 = 0
             c6 = 1
+
         if c3 and c4:
             c2 = 1
             c6 = 1
@@ -75,7 +95,7 @@ class Solution:
         res[8] = c8
         res[9] = c9
         return res
-    def _build(self, cnt: Counter):
+    def _build(self, cnt):
         ans = []
         for d in range(2, 10):
             ans.append(str(d) * cnt[d])
