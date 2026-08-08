@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/066-dandapat/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/066-dandapat/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/066-dandapat/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/066-dandapat/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/066-dandapat/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
