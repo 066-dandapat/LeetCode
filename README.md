@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/066-dandapat/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/066-dandapat/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/066-dandapat/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/066-dandapat/LeetCode/tree/master/3731-find-missing-elements) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/066-dandapat/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/066-dandapat/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -272,14 +276,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/066-dandapat/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/066-dandapat/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
