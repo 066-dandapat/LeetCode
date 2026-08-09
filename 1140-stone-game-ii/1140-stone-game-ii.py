@@ -1,9 +1,5 @@
-class Solution(object):
-    def stoneGameII(self, piles):
-        """
-        :type piles: List[int]
-        :rtype: int
-        """
+class Solution:
+    def stoneGameII(self, piles: List[int]) -> int:
         n = len(piles)
         suffix = [0] * (n + 1)
         for i in range(n - 1, -1, -1):
@@ -17,8 +13,8 @@ class Solution(object):
             if i + 2 * M >= n:
                 return suffix[i]
             best = 0
-            for X in range(1, 2 * M + 1):
-                opponent = dfs(i + X, max(M, X))
+            for x in range(1, 2 * M + 1):
+                opponent = dfs(i + x, max(M, x))
                 best = max(best, suffix[i] - opponent)
             memo[(i, M)] = best
             return best
