@@ -1,5 +1,10 @@
-class Solution:
-    def maxSubarrayLength(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def maxSubarrayLength(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         freq = {}
         left = 0
         ans = 0
