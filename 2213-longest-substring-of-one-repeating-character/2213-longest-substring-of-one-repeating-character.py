@@ -1,5 +1,5 @@
-class Solution(object):
-    def longestRepeating(self, s, queryCharacters, queryIndices):
+class Solution:
+    def longestRepeating(self, s: str, queryCharacters: str, queryIndices: List[int]) -> List[int]:
         n = len(s)
         tree = [None] * (4 * n)
         def merge(a, b):
