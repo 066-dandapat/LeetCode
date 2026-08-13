@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/066-dandapat/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/066-dandapat/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/066-dandapat/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/066-dandapat/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/066-dandapat/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
