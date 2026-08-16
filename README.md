@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/066-dandapat/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/066-dandapat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/066-dandapat/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/066-dandapat/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -291,18 +295,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/066-dandapat/LeetCode/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -311,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
