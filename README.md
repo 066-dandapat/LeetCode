@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/066-dandapat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
