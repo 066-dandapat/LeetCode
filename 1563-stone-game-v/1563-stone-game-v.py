@@ -5,28 +5,38 @@ class Solution(object):
         for i in range(n):
             prefix[i + 1] = prefix[i] + stoneValue[i]
         memo = [[-1] * n for _ in range(n)]
-        def dfs(l, r):
-            if l >= r:
+        def dfs(left, right):
+            if left >= right:
                 return 0
-            if memo[l][r] != -1:
-                return memo[l][r]
+            if memo[left][right] != -1:
+                return memo[left][right]
             ans = 0
-            left_sum = 0
-            total = prefix[r + 1] - prefix[l]
-            for k in range(l, r):
-                left_sum += stoneValue[k]
-                right_sum = total - left_sum
-                if left_sum < right_sum:
-                    ans = max(ans, left_sum + dfs(l, k))
-                elif left_sum > right_sum:
-                    ans = max(ans, right_sum + dfs(k + 1, r))
+            leftSum = 0
+            rightSum = prefix[right + 1] - prefix[left]
+            for k in range(left, right):
+                leftSum += stoneValue[k]
+                rightSum -= stoneValue[k]
+                if leftSum < rightSum:
+                    if ans >= 2 * leftSum:
+                        continue
+                    ans = max(
+                        ans,
+                        leftSum + dfs(left, k)
+                    )
+                elif leftSum > rightSum:
+                    if ans >= 2 * rightSum:
+                        break
+                    ans = max(
+                        ans,
+                        rightSum + dfs(k + 1, right)
+                    )
                 else:
                     ans = max(
                         ans,
-                        left_sum + dfs(l, k),
-                        right_sum + dfs(k + 1, r)
+                        leftSum + dfs(left, k),
+                        rightSum + dfs(k + 1, right)
                     )
-            memo[l][r] = ans
+            memo[left][right] = ans
             return ans
         return dfs(0, n - 1)
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
