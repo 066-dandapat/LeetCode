@@ -1,5 +1,6 @@
-class Solution(object):
-    def largestInteger(self, nums, k):
+from typing import List
+class Solution:
+    def largestInteger(self, nums: List[int], k: int) -> int:
         count = {}
         for i in range(len(nums) - k + 1):
             seen = set(nums[i:i + k])
