@@ -1,14 +1,6 @@
-class Solution(object):
-    def findKthSmallest(self, coins, k):
-        """
-        :type coins: List[int]
-        :type k: int
-        :rtype: int
-        """
-        def gcd(a, b):
-            while b:
-                a, b = b, a % b
-            return a
+class Solution:
+    def findKthSmallest(self, coins: List[int], k: int) -> int:
+        from math import gcd
         def lcm(a, b):
             return a // gcd(a, b) * b
         def count(x):
@@ -24,10 +16,12 @@ class Solution(object):
                             break
                         bits += 1
                 if val <= x:
-                    if bits % 2 == 1:
-                        total += x // val
+                    cur = x // val
+                    if bits % 2:
+                        total += cur
                     else:
-                        total -= x // val
+                        total -= cur
+
             return total
         left = 1
         right = min(coins) * k
