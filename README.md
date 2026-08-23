@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/066-dandapat/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/066-dandapat/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/066-dandapat/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
