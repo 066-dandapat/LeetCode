@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/066-dandapat/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/066-dandapat/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/066-dandapat/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/066-dandapat/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/066-dandapat/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/066-dandapat/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/066-dandapat/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Enumeration
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -333,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/066-dandapat/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/066-dandapat/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
