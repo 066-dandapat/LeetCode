@@ -1,5 +1,9 @@
-class Solution:
-    def stoneGameVIII(self, stones: List[int]) -> int:
+class Solution(object):
+    def stoneGameVIII(self, stones):
+        """
+        :type stones: List[int]
+        :rtype: int
+        """
         n = len(stones)
         prefix = [0] * n
         prefix[0] = stones[0]
