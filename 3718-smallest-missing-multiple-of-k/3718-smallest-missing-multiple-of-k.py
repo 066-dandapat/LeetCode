@@ -1,10 +1,5 @@
-class Solution(object):
-    def missingMultiple(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def missingMultiple(self, nums: List[int], k: int) -> int:
         s = set(nums)
         x = k
         while x in s:
