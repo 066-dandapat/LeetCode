@@ -193,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/066-dandapat/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [1927-sum-game](https://github.com/066-dandapat/LeetCode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/066-dandapat/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/066-dandapat/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/066-dandapat/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/066-dandapat/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
