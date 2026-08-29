@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/066-dandapat/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/066-dandapat/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/066-dandapat/LeetCode/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/066-dandapat/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/066-dandapat/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [2685-count-the-number-of-complete-components](https://github.com/066-dandapat/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
