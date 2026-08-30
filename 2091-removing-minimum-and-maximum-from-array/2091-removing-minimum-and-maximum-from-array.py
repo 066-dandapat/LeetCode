@@ -1,9 +1,5 @@
-class Solution(object):
-    def minimumDeletions(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def minimumDeletions(self, nums: List[int]) -> int:
         n = len(nums)
         min_idx = nums.index(min(nums))
         max_idx = nums.index(max(nums))
