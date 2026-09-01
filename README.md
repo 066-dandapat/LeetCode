@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/066-dandapat/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/066-dandapat/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/066-dandapat/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/066-dandapat/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/066-dandapat/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/066-dandapat/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/066-dandapat/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/066-dandapat/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/066-dandapat/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/066-dandapat/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
 | ------- |
