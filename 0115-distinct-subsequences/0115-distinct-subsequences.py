@@ -1,10 +1,5 @@
-class Solution(object):
-    def numDistinct(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: int
-        """
+class Solution:
+    def numDistinct(self, s: str, t: str) -> int:
         m = len(t)
         dp = [0] * (m + 1)
         dp[0] = 1
