@@ -1,9 +1,5 @@
-class Solution(object):
-    def distinctSubseqII(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def distinctSubseqII(self, s: str) -> int:
         MOD = 10**9 + 7
         dp = 1
         last = {}
