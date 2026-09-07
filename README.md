@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/066-dandapat/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/066-dandapat/LeetCode/tree/master/1872-stone-game-viii) |
 | [0115-distinct-subsequences](https://github.com/066-dandapat/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/066-dandapat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [0115-distinct-subsequences](https://github.com/066-dandapat/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/066-dandapat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
