@@ -1,9 +1,5 @@
-class Solution(object):
-    def countCommas(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def countCommas(self, n: int) -> int:
         ans = 0
         if n >= 1000:
             ans += n - 999
