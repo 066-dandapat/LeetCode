@@ -1,12 +1,6 @@
-class Solution(object):
-    def largestOverlap(self, img1, img2):
-        """
-        :type img1: List[List[int]]
-        :type img2: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def largestOverlap(self, img1: List[List[int]], img2: List[List[int]]) -> int:
         n = len(img1)
-        ans = 0
         ones1 = []
         ones2 = []
         for i in range(n):
@@ -16,7 +10,7 @@ class Solution(object):
                 if img2[i][j] == 1:
                     ones2.append((i, j))
         shifts = {}
-
+        ans = 0
         for x1, y1 in ones1:
             for x2, y2 in ones2:
                 shift = (x2 - x1, y2 - y1)
