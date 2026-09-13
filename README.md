@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/066-dandapat/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/066-dandapat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/066-dandapat/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [0835-image-overlap](https://github.com/066-dandapat/LeetCode/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [0835-image-overlap](https://github.com/066-dandapat/LeetCode/tree/master/0835-image-overlap) |
 ## Graph Theory
 |  |
 | ------- |
