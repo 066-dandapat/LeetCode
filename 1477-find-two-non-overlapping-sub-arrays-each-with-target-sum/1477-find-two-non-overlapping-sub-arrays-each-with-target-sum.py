@@ -1,5 +1,5 @@
-class Solution:
-    def minSumOfLengths(self, arr: list[int], target: int) -> int:
+class Solution(object):
+    def minSumOfLengths(self, arr, target):
         n = len(arr)
         INF = n + 1
         best = [INF] * n
@@ -15,10 +15,12 @@ class Solution:
                 length = right - left + 1
                 if left > 0 and best[left - 1] != INF:
                     ans = min(ans, length + best[left - 1])
-                best[right] = length
+                if right == 0:
+                    best[right] = length
+                else:
+                    best[right] = min(best[right - 1], length)
             else:
-                best[right] = INF
-            if right > 0:
-                best[right] = min(best[right], best[right - 1])
+                if right > 0:
+                    best[right] = best[right - 1]
         return -1 if ans == INF else ans
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
