@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/066-dandapat/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/066-dandapat/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/066-dandapat/LeetCode/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/066-dandapat/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/066-dandapat/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/066-dandapat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
 | ------- |
