@@ -1,5 +1,5 @@
-class Solution:
-    def reverseDegree(self, s: str) -> int:
+class Solution(object):
+    def reverseDegree(self, s):
         ans = 0
         for i in range(len(s)):
             reverse_pos = 26 - (ord(s[i]) - ord('a'))
