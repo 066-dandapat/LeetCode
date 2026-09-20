@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/066-dandapat/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/066-dandapat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/066-dandapat/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [1260-shift-2d-grid](https://github.com/066-dandapat/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/066-dandapat/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/066-dandapat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
