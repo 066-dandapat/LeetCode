@@ -1,11 +1,5 @@
-class Solution(object):
-
-    def resultArray(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
+class Solution:
+    def resultArray(self, nums: List[int], k: int) -> List[int]:
         ans = [0] * k
         prev = [0] * k
         for x in nums:
