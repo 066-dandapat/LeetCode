@@ -1,15 +1,20 @@
-class Solution:
-    def resultArray(self, nums: List[int], k: int, queries: List[List[int]]) -> List[int]:
+class Solution(object):
+    def resultArray(self, nums, k, queries):
+        """
+        :type nums: List[int]
+        :type k: int
+        :type queries: List[List[int]]
+        :rtype: List[int]
+        """
         n = len(nums)
-        tree = [[0, [0] * k] for _ in range(4 * n)]
+        tree = [[1 % k, [0] * k] for _ in range(4 * n)]
         def merge(left, right):
-            left_prod, left_cnt = left
-            right_prod, right_cnt = right
-            prod = (left_prod * right_prod) % k
-            cnt = left_cnt[:]
+            lp, lc = left
+            rp, rc = right
+            prod = (lp * rp) % k
+            cnt = lc[:]
             for r in range(k):
-                new_rem = (left_prod * r) % k
-                cnt[new_rem] += right_cnt[r]
+                cnt[(lp * r) % k] += rc[r]
             return [prod, cnt]
         def build(node, l, r):
             if l == r:
