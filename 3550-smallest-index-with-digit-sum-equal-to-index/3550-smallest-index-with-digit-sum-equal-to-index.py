@@ -1,5 +1,9 @@
-class Solution:
-    def smallestIndex(self, nums: List[int]) -> int:
+class Solution(object):
+    def smallestIndex(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         for i in range(len(nums)):
             x = nums[i]
             digit_sum = 0
