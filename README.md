@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/066-dandapat/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/066-dandapat/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/066-dandapat/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/066-dandapat/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/066-dandapat/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/066-dandapat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/066-dandapat/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/066-dandapat/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/066-dandapat/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Nim Game
 |  |
 | ------- |
