@@ -1,12 +1,16 @@
-class Solution:
-    def reverseParentheses(self, s: str) -> str:
+class Solution(object):
+    def reverseParentheses(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
         stack = []
         for ch in s:
             if ch == ')':
                 temp = []
                 while stack[-1] != '(':
                     temp.append(stack.pop())
-                stack.pop()  
+                stack.pop() 
                 stack.extend(temp)
             else:
                 stack.append(ch)
