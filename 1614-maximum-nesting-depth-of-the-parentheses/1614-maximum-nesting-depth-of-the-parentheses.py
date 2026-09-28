@@ -1,5 +1,9 @@
-class Solution:
-    def maxDepth(self, s: str) -> int:
+class Solution(object):
+    def maxDepth(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         depth = 0
         max_depth = 0
         for ch in s:
