@@ -1,16 +1,10 @@
-class Solution(object):
-    def hasValidPath(self, grid):
-        """
-        :type grid: List[List[str]]
-        :rtype: bool
-        """
+class Solution:
+    def hasValidPath(self, grid: list[list[str]]) -> bool:
         m = len(grid)
         n = len(grid[0])
         if (m + n - 1) % 2 == 1:
             return False
-        if grid[0][0] == '(':
-            pass
-        else:
+        if grid[0][0] == ')':
             return False
         if grid[m - 1][n - 1] == '(':
             return False
@@ -29,7 +23,6 @@ class Solution(object):
                 if c > 0:
                     for balance in dp[r][c - 1]:
                         new_balance = balance + change
-
                         if new_balance >= 0:
                             dp[r][c].add(new_balance)
         return 0 in dp[m - 1][n - 1]
