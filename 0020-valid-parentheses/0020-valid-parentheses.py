@@ -1,11 +1,6 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-
         pairs = {
             ')': '(',
             ']': '[',
@@ -18,5 +13,5 @@ class Solution(object):
                 stack.pop()
             else:
                 stack.append(ch)
-        return len(stack) == 0
+        return not stack
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
