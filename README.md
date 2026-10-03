@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/066-dandapat/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/066-dandapat/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/066-dandapat/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0032-longest-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/066-dandapat/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/066-dandapat/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -465,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/066-dandapat/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/066-dandapat/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
