@@ -1,9 +1,5 @@
-class Solution(object):
-    def checkValidString(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def checkValidString(self, s: str) -> bool:
         low = 0
         high = 0
         for ch in s:
