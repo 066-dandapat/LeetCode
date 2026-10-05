@@ -1,9 +1,5 @@
-class Solution(object):
-    def scoreOfParentheses(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def scoreOfParentheses(self, s: str) -> int:
         stack = [0]
         for ch in s:
             if ch == '(':
