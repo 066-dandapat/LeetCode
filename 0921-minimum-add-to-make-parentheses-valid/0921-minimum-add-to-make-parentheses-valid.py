@@ -1,5 +1,9 @@
-class Solution:
-    def minAddToMakeValid(self, s: str) -> int:
+class Solution(object):
+    def minAddToMakeValid(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         balance = 0
         additions = 0
         for ch in s:
