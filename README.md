@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/066-dandapat/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/066-dandapat/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0301-remove-invalid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/066-dandapat/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/066-dandapat/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/066-dandapat/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [1096-brace-expansion-ii](https://github.com/066-dandapat/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Nim Game
 |  |
 | ------- |
