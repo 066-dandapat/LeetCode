@@ -1,5 +1,5 @@
-class Solution(object):
-    def removeOuterParentheses(self, s):
+class Solution:
+    def removeOuterParentheses(self, s: str) -> str:
         result = []
         depth = 0
         for ch in s:
