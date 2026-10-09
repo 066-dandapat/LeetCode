@@ -1,5 +1,5 @@
-class Solution(object):
-    def minInsertions(self, s):
+class Solution:
+    def minInsertions(self, s: str) -> int:
         insertions = 0
         need = 0
         for ch in s:
