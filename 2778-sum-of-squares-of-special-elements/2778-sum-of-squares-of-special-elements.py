@@ -1,5 +1,5 @@
-class Solution:
-    def sumOfSquares(self, nums: List[int]) -> int:
+class Solution(object):
+    def sumOfSquares(self, nums):
         n = len(nums)
         total = 0
         for i in range(n):
