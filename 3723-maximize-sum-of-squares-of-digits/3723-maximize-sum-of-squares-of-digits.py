@@ -1,16 +1,11 @@
-class Solution(object):
-    def maxSumOfSquares(self, num, sum):
-        """
-        :type num: int
-        :type sum: int
-        :rtype: str
-        """
+class Solution:
+    def maxSumOfSquares(self, num: int, sum: int) -> str:
         if sum > 9 * num:
             return ""
-        digits = [0] * num
-        for i in range(num):
+        digits = []
+        for _ in range(num):
             digit = min(9, sum)
-            digits[i] = digit
+            digits.append(str(digit))
             sum -= digit
-        return "".join(map(str, digits))
+        return "".join(digits)
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
