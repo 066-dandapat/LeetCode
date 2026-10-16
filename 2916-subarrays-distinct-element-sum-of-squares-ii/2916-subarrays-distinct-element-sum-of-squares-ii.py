@@ -1,5 +1,5 @@
-class Solution(object):
-    def sumCounts(self, nums):
+class Solution:
+    def sumCounts(self, nums: List[int]) -> int:
         MOD = 10**9 + 7
         n = len(nums)
         sum1 = [0] * (4 * n)
@@ -7,7 +7,7 @@ class Solution(object):
         lazy = [0] * (4 * n)
         def push(node, start, end):
             val = lazy[node]
-            if val == 0:
+            if val == 0 or start == end:
                 return
             mid = (start + end) // 2
             for child, l, r in (
@@ -28,7 +28,7 @@ class Solution(object):
             if left <= start and end <= right:
                 length = end - start + 1
                 sum2[node] = (
-                    sum2[node] + 2 * sum1[node] * 1 + length
+                    sum2[node] + 2 * sum1[node] + length
                 ) % MOD
                 sum1[node] = (sum1[node] + length) % MOD
                 lazy[node] += 1
