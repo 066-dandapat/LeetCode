@@ -1,5 +1,5 @@
-class Solution(object):
-    def numOfWays(self, nums):
+class Solution:
+    def numOfWays(self, nums: list[int]) -> int:
         MOD = 10**9 + 7
         n = len(nums)
         comb = [[0] * (n + 1) for _ in range(n + 1)]
