@@ -1,14 +1,11 @@
-class Solution(object):
-    def targetIndices(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        nums.sort()
-        result = []
-        for i in range(len(nums)):
-            if nums[i] == target:
-                result.append(i)
-        return result
+class Solution:
+    def targetIndices(self, nums: list[int], target: int) -> list[int]:
+        smaller = 0
+        equal = 0
+        for num in nums:
+            if num < target:
+                smaller += 1
+            elif num == target:
+                equal += 1
+        return list(range(smaller, smaller + equal))
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
