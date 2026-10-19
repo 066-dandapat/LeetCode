@@ -8,4 +8,3 @@ class Solution:
             elif num == target:
                 equal += 1
         return list(range(smaller, smaller + equal))
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
