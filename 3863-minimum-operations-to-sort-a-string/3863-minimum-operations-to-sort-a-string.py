@@ -1,5 +1,9 @@
-class Solution:
-    def minOperations(self, s: str) -> int:
+class Solution(object):
+    def minOperations(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         n = len(s)
         if s == ''.join(sorted(s)):
             return 0
