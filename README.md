@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/066-dandapat/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/066-dandapat/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/066-dandapat/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [2409-count-days-spent-together](https://github.com/066-dandapat/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/066-dandapat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/066-dandapat/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [2409-count-days-spent-together](https://github.com/066-dandapat/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
