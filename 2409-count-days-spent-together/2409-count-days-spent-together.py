@@ -1,12 +1,5 @@
-class Solution(object):
-    def countDaysTogether(self, arriveAlice, leaveAlice, arriveBob, leaveBob):
-        """
-        :type arriveAlice: str
-        :type leaveAlice: str
-        :type arriveBob: str
-        :type leaveBob: str
-        :rtype: int
-        """
+class Solution:
+    def countDaysTogether(self, arriveAlice: str, leaveAlice: str, arriveBob: str, leaveBob: str) -> int:
         start = max(arriveAlice, arriveBob)
         end = min(leaveAlice, leaveBob)
         if start > end:
