@@ -1,5 +1,5 @@
 class Solution:
-    def closedIsland(self, grid: list[list[int]]) -> int:
+    def closedIsland(self, grid):
         m, n = len(grid), len(grid[0])
         def dfs(r, c):
             if r < 0 or r >= m or c < 0 or c >= n:
@@ -13,6 +13,7 @@ class Solution:
             right = dfs(r, c + 1)
 
             return up and down and left and right
+
         count = 0
         for r in range(m):
             for c in range(n):
