@@ -1,10 +1,10 @@
 class Solution:
-    def palindromePath(self, n, edges, s, queries):
+    def palindromePath(self, n: int, edges: list[list[int]], s: str, queries: list[str]) -> list[bool]:
         g = [[] for _ in range(n)]
         for a, b in edges:
             g[a].append(b)
             g[b].append(a)
-        LOG = max(1, (n - 1).bit_length())
+        LOG = max(1, n.bit_length())
         parent = [0] * n
         depth = [0] * n
         tin = [0] * n
@@ -18,7 +18,9 @@ class Solution:
             if it[u] < len(g[u]):
                 v = g[u][it[u]]
                 it[u] += 1
-                if v == parent[u]:
+                if v == parent[u] and u != 0:
+                    continue
+                if v == 0 and u != 0:
                     continue
                 parent[v] = u
                 depth[v] = depth[u] + 1
@@ -38,11 +40,11 @@ class Solution:
                 bit[i] ^= x
                 i += i & -i
         def get(i):
-            r = 0
+            result = 0
             while i > 0:
-                r ^= bit[i]
+                result ^= bit[i]
                 i -= i & -i
-            return r
+            return result
         def lca(u, v):
             if depth[u] < depth[v]:
                 u, v = v, u
@@ -57,27 +59,30 @@ class Solution:
                     u = up[j][u]
                     v = up[j][v]
             return up[0][u]
-        cs = [ord(c) - 97 for c in s]
+        chars = [ord(c) - 97 for c in s]
         for u in range(n):
-            x = 1 << cs[u]
+            x = 1 << chars[u]
             add(tin[u], x)
             add(tout[u] + 1, x)
-        res = []
+        result = []
         for q in queries:
             p = q.split()
             if p[0] == "update":
                 u = int(p[1])
                 c = ord(p[2]) - 97
-                if cs[u] != c:
-                    x = (1 << cs[u]) ^ (1 << c)
+
+                if chars[u] != c:
+                    x = (1 << chars[u]) ^ (1 << c)
                     add(tin[u], x)
                     add(tout[u] + 1, x)
-                    cs[u] = c
+                    chars[u] = c
             else:
                 u = int(p[1])
                 v = int(p[2])
-                l = lca(u, v)
-                m = get(tin[u]) ^ get(tin[v]) ^ (1 << cs[l])
-                res.append((m & (m - 1)) == 0)
-        return res
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
+                w = lca(u, v)
+
+                mask = get(tin[u]) ^ get(tin[v]) ^ (1 << chars[w])
+
+                result.append((mask & (mask - 1)) == 0)
+
+        return result
