@@ -10,6 +10,7 @@ class Solution(object):
         pq = [(0, 0, 1)]
         while pq:
             cost, u, count = heapq.heappop(pq)
+
             if cost != dist[u][count]:
                 continue
             if u == n - 1:
