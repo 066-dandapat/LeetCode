@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/066-dandapat/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/066-dandapat/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/066-dandapat/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/066-dandapat/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
