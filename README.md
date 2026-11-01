@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/066-dandapat/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/066-dandapat/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [2409-count-days-spent-together](https://github.com/066-dandapat/LeetCode/tree/master/2409-count-days-spent-together) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/066-dandapat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/066-dandapat/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/066-dandapat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Hash Table
 |  |
 | ------- |
