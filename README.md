@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/066-dandapat/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/066-dandapat/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/066-dandapat/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/066-dandapat/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/066-dandapat/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/066-dandapat/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/066-dandapat/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/066-dandapat/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/066-dandapat/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
