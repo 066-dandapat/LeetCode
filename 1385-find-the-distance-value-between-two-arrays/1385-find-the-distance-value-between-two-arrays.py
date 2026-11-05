@@ -1,19 +1,6 @@
-class Solution(object):
-    def findTheDistanceValue(self, arr1, arr2, d):
-        """
-        :type arr1: List[int]
-        :type arr2: List[int]
-        :type d: int
-        :rtype: int
-        """
-        count = 0
-        for x in arr1:
-            valid = True
-            for y in arr2:
-                if abs(x - y) <= d:
-                    valid = False
-                    break
-            if valid:
-                count += 1
-        return count
+class Solution:
+    def findTheDistanceValue(self, arr1: List[int], arr2: List[int], d: int) -> int:
+        def far(a):  # no b in [a - d, a + d]
+            return all(abs(a - b) > d for b in arr2)
+        return sum(map(far, arr1))
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("000"))
