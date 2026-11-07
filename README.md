@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/066-dandapat/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [1882-process-tasks-using-servers](https://github.com/066-dandapat/LeetCode/tree/master/1882-process-tasks-using-servers) |
 ## Hash Table
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/066-dandapat/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/066-dandapat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [1882-process-tasks-using-servers](https://github.com/066-dandapat/LeetCode/tree/master/1882-process-tasks-using-servers) |
 ## Matrix
 |  |
 | ------- |
