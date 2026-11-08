@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/066-dandapat/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [1882-process-tasks-using-servers](https://github.com/066-dandapat/LeetCode/tree/master/1882-process-tasks-using-servers) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/066-dandapat/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [2029-stone-game-ix](https://github.com/066-dandapat/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/066-dandapat/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/066-dandapat/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/066-dandapat/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1254-number-of-closed-islands](https://github.com/066-dandapat/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/066-dandapat/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/066-dandapat/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/066-dandapat/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
