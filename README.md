@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/066-dandapat/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/066-dandapat/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/066-dandapat/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1267-count-servers-that-communicate](https://github.com/066-dandapat/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/066-dandapat/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3693-climbing-stairs-ii](https://github.com/066-dandapat/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
