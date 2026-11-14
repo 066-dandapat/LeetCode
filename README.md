@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/066-dandapat/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/066-dandapat/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/066-dandapat/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/066-dandapat/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/066-dandapat/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [2747-count-zero-request-servers](https://github.com/066-dandapat/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/066-dandapat/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
