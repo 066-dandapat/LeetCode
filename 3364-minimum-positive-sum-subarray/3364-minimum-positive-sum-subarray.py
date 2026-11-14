@@ -1,5 +1,11 @@
-class Solution:
-    def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
+class Solution(object):
+    def minimumSumSubarray(self, nums, l, r):
+        """
+        :type nums: List[int]
+        :type l: int
+        :type r: int
+        :rtype: int
+        """
         n = len(nums)
         ans = float('inf')
         for i in range(n):
