@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/066-dandapat/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/066-dandapat/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/066-dandapat/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/066-dandapat/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/066-dandapat/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/066-dandapat/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/066-dandapat/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Enumeration
 |  |
 | ------- |
