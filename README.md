@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/066-dandapat/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/066-dandapat/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Array
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/066-dandapat/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/066-dandapat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/066-dandapat/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/066-dandapat/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/066-dandapat/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/066-dandapat/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/066-dandapat/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bit Manipulation
 |  |
 | ------- |
