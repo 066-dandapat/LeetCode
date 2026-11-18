@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/066-dandapat/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/066-dandapat/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/066-dandapat/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/066-dandapat/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
