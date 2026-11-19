@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/066-dandapat/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/066-dandapat/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/066-dandapat/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/066-dandapat/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/066-dandapat/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/066-dandapat/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/066-dandapat/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/066-dandapat/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/066-dandapat/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/066-dandapat/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/066-dandapat/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
