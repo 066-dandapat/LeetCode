@@ -1,5 +1,9 @@
-class Solution:
-    def maxSelectedElements(self, nums: List[int]) -> int:
+class Solution(object):
+    def maxSelectedElements(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         nums.sort()
         dp = {}
         for x in nums:
