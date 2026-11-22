@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/066-dandapat/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/066-dandapat/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/066-dandapat/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/066-dandapat/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
