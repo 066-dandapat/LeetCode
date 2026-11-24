@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxLength(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxLength(self, nums: List[int]) -> int:
         def gcd(a, b):
             while b:
                 a, b = b, a % b
