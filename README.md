@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/066-dandapat/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/066-dandapat/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/066-dandapat/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/066-dandapat/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/066-dandapat/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/066-dandapat/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/066-dandapat/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/066-dandapat/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/066-dandapat/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/066-dandapat/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/066-dandapat/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/066-dandapat/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/066-dandapat/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [1882-process-tasks-using-servers](https://github.com/066-dandapat/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/066-dandapat/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/066-dandapat/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
